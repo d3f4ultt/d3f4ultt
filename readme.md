@@ -1,4 +1,16 @@
-![Background Image](https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8)
-
-Check out my [GitHub Pages site](https://your-github-username.github.io/) for more!
-
+<br>
+<pre align="center">
+ ______                  ___    ___                  ____         _____                 __    ____            __      
+/\  _  \                /\_ \  /\_ \               /|  _ \       /\___ \               /\ \__/\  _`\         /\ \__   
+\ \ \L\ \  _____     ___\//\ \ \//\ \     ___      |/\   |       \/__/\ \     __     __\ \ ,_\ \ \L\ \    ___\ \ ,_\  
+ \ \  __ \/\ '__`\  / __`\\ \ \  \ \ \   / __`\     \// __`\/\      _\ \ \  /'__`\ /'__`\ \ \/\ \  _ <'  / __`\ \ \/  
+  \ \ \/\ \ \ \L\ \/\ \L\ \\_\ \_ \_\ \_/\ \L\ \    /|  \L>  <_    /\ \_\ \/\  __//\  __/\ \ \_\ \ \L\ \/\ \L\ \ \ \_ 
+   \ \_\ \_\ \ ,__/\ \____//\____\/\____\ \____/    | \_____/\/    \ \____/\ \____\ \____\\ \__\\ \____/\ \____/\ \__\
+    \/_/\/_/\ \ \/  \/___/ \/____/\/____/\/___/      \/____/\/      \/___/  \/____/\/____/ \/__/ \/___/  \/___/  \/__/
+             \ \_\                                                                                                    
+              \/_/                                                                                                    
+  <h3>Can the devs do something?</h3>
+  the trenches <a href="[[https://ApolloAlgo.ai](https://ApolloAlgo.ai)]</a>
+  <br>
+  <a href="https://discord.gg/ApolloAlgo"><img alt="Discord" src="https://img.shields.io/discord/935376916377137232?logo=discord&style=flat&logoColor=white"></a>
+</pre>
