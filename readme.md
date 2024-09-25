@@ -9,7 +9,7 @@
     \/_/\/_/\ \ \/  \/___/ \/____/\/____/\/___/      \/____/\/      \/___/  \/____/\/____/ \/__/ \/___/  \/___/  \/__/
              \ \_\                                                                                                    
               \/_/                                                                                                    
-  <h3>Can the devs do something?</h3>
+  <h3>Solving the liquidity crisis, one FSH at a time.</h3>
   the trenches <a href="[[https://ApolloAlgo.ai](https://ApolloAlgo.ai)]</a>
   <br>
   <a href="https://discord.gg/ApolloAlgo"><img alt="Discord" src="https://img.shields.io/discord/935376916377137232?logo=discord&style=flat&logoColor=white"></a>
