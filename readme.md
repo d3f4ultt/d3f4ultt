@@ -21,12 +21,6 @@
 
 ---
 
-<img src="https://profile-counter.glitch.me/d3f4ultt/count.svg" alt="visitor count"/>
-
-</div>
-
----
-
 ## Activity
 
 > Most of my work lives in private infrastructure, trading systems, and research repos.  
