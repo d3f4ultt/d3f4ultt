@@ -27,11 +27,6 @@
 > Public activity reflects only a subset of total output.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d3f4ultt&show_icons=true&theme=transparent&count_private=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3f4ultt&layout=donut&theme=transparent&langs_count=3&hide=css,php" height="165"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=d3f4ultt&theme=xcode&hide_border=true"/>
 </div>
 
