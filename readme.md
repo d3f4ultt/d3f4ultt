@@ -31,16 +31,3 @@
 </div>
 
 ---
-
-## About
-
-I build **production-grade systems** at the intersection of:
-
-- 📊 Quantitative trading & market microstructure  
-- 🧠 Security engineering & adversarial thinking  
-- 🤖 AI / ML agents (local-first, autonomous, composable)  
-- 🔮 Volatility modeling & inefficiency extraction  
-
-Most real work is **private, deployed, and adversarial by default**.
-
-If you know, you know.
